@@ -1,5 +1,5 @@
 # 💫 About Me:
-![@amrit018](https://github.com/amrit018)<br>
+[@amrit018](https://github.com/amrit018)<br>
 I currently work in android application development in a challenging and fast evolving environment.<br>Professional Summary:<br>More than 7 years of IT experience in the design, development, deployment, and maintenance of Android applications.<br>Experienced with MVC, MVP, MVVM design patterns, and Software Development Life Cycle (SDLC).<br>Experienced in all project phases using Waterfall and Agile Methodologies.<br>Proficient in software versioning tools such as GIT (using GitHub) and Bitbucket.<br>Academic experience in Embedded systems, Sensor networks, Cloud computing, and IoT (Internet of Things).
 
 
